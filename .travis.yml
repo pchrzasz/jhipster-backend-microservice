@@ -2,7 +2,6 @@ os:
   - linux
 services:
   - docker
-language: node_js
 jdk:
   - oraclejdk8
 sudo: false
