@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/pchrzasz/jhipster-backend-microservice.svg?branch=master)](https://travis-ci.org/pchrzasz/jhipster-backend-microservice)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=jhipster-backend-microservice&metric=alert_status)](https://sonarcloud.io/dashboard?id=jhipster-backend-microservice)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=jhipsterBackend&metric=alert_status)](https://sonarcloud.io/dashboard?id=jhipsterBackend)
 
 # jhipster-backend-microservice
 
