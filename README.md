@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/pchrzasz/jhipster-backend-microservice.svg?branch=master)](https://travis-ci.org/pchrzasz/jhipster-backend-microservice)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=jhipster-backend-microservice&metric=alert_status)](https://sonarcloud.io/dashboard?id=jhipster-backend-microservice)
+
 # jhipsterBackend
 
 This application was generated using JHipster 6.0.1, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v6.0.1](https://www.jhipster.tech/documentation-archive/v6.0.1).
