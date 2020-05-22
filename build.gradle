@@ -18,7 +18,7 @@ plugins {
     id "war"
     id "idea"
     id "jacoco"
-    id "com.google.cloud.tools.jib" version "0.9.11"
+    id "com.google.cloud.tools.jib" version "2.3.0"
     id "com.gorylenko.gradle-git-properties" version "2.0.0"
     id "net.ltgt.apt-eclipse" version "0.21"
     id "net.ltgt.apt-idea" version "0.21"
